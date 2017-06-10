@@ -1,0 +1,7 @@
+1. file1.cc is used to populate the database. It takes two arguements , one is file name and other is file type which can be 'Type1' , 'Type2' or 'Type3'
+
+2. file2.cc is used to display the details of a city. It will prompt the user to enter the city name
+
+3. dist.cc is used to calculate the distance between two cities. It will prompt the user to enter the city names.
+
+
